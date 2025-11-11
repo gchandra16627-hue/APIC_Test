@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "66zR2xJsVMxlwOB1b90BGv",
+    "name" : "RL_2",
+    "type" : "API_POLICY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "9520cc7c-125e-447c-8763-d9c3b0ebb8d5"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2025-11-11T11:19:11.138Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
