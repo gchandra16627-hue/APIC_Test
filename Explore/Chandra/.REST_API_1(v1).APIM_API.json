@@ -13,14 +13,14 @@
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "updated description 2nd time",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2025-11-11T10:49:21.564Z",
+  "updateTime" : "2025-11-11T11:51:48.990Z",
   "objectRefs" : [ {
     "id" : "66zR2xJsVMxlwOB1b90BGv",
     "name" : "RL_2",
