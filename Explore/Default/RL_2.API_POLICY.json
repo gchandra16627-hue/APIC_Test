@@ -15,14 +15,14 @@
     },
     "definition" : {
       "data" : { },
-      "id" : "4748c4cf-b774-43f8-b0a1-0e127ec524bc",
+      "id" : "ae1f85d6-622e-4e2f-9c0c-526f2067aadf",
       "tier" : {
         "id" : "a19b4154-55eb-4331-a076-4e3edaff3178",
         "name" : "APIC_T_1762857585182",
         "description" : "",
         "quota" : 2,
         "timeInterval" : 1,
-        "timeUnit" : "MINUTE",
+        "timeUnit" : "HOUR",
         "internalTierId" : "9b2cd0a0-0417-431b-a23f-5d49181fc153"
       }
     },
